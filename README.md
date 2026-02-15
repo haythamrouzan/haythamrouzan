@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning HTML through freeCodeCamp's Responsive Web Design Certification.
+🤔 I’m looking for help with problem solving and leetcode.
 <!--
 **haythamrouzan/haythamrouzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
